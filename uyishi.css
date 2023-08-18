@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    
+}
+.card__1{
+    width: 300px;
+    height: 420px;
+    background-color: #fff;
+    border: 1px solid #acacac;
+    border-radius: 10px;
+    font-family: sans-serif;
+  }
+  body{
+    margin-left: 300px;
+    margin-top: 10px;
+    display:flex;
+  }
+  .card__img{
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+  .card__type{
+    border: 1px solid darkturquoise;
+    background-color:darkturquoise;
+    padding: 3px 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+    color: white;
+    font-size: 10px;
+    letter-spacing: 1px;
+  }
+  .card__tit{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+   font-weight:700;
+  }
+ .card__text{
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+ .card__te{
+    margin-left: 20px;
+ }
+ .card__im{
+    width: 15%;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: -10px;
+ }
+.card__name{
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-bottom: -5px;
+}
+.card__tex{
+    margin-left: 10px;
+    opacity: 50%;
+}
+.card__2{
+    margin-left: 20px;
+    width: 300px;
+    height: 420px;
+    background-color: #fff;
+    border: 1px solid #acacac;
+    border-radius: 10px;
+    font-family: sans-serif;
+  }
+  .card__img2{
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+  .card__type2{
+    border: 1px solid mediumorchid;
+    background-color:mediumorchid;
+    padding: 3px 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+    color: white;
+    font-size: 10px;
+    letter-spacing: 1px;
+  }
+  .card__tit2{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+   font-weight:700;
+  }
+ .card__text2{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-right: 20px;
+ }
+ .card__te2{
+    margin-left: 20px;
+ }
+ .card__im2{
+    width: 15%;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: -10px;
+ }
+.card__name2{
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-bottom: -5px;
+}
+.card__tex2{
+    margin-left: 10px;
+    opacity: 50%;
+}
+.card__3{
+    margin-left: 20px;
+    width: 300px;
+    height: 420px;
+    background-color: #fff;
+    border: 1px solid #acacac;
+    border-radius: 10px;
+    font-family: sans-serif;
+  }
+  .card__img3{
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+  .card__type3{
+    border: 1px solid mediumorchid;
+    background-color:mediumorchid;
+    padding: 3px 15px;
+    border-radius: 20px;
+    margin-left: 20px;
+    color: white;
+    font-size: 10px;
+    letter-spacing: 1px;
+  }
+  .card__tit3{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+   font-weight:700;
+  }
+ .card__text3{
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+ .card__te3{
+    margin-left: 20px;
+ }
+ .card__im3{
+    width: 15%;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: -10px;
+    margin-top: 5px;
+ }
+.card__name3{
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: -5px;
+
+}
+.card__tex3{
+    margin-left: 10px;
+    opacity: 50%;
+}
